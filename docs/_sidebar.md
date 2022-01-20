@@ -18,7 +18,8 @@
   * [代码复制](./zh-cn/代码复制 "Docsify Tutorial")
   * [支持Mermaid](./zh-cn/支持Mermaid "Docsify Tutorial")
 
-- 四、高阶应用(暂不更新)
+- 四、高阶应用
+  - [Github-Pages文档部署](./zh-cn/Pages文档部署 "Docsify Tutorial")
 
 
 

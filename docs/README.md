@@ -27,4 +27,44 @@
   * [代码复制](./zh-cn/代码复制): 支持复制`文本代码格式`，方便复制粘贴代码内容
   * [支持Mermaiid](./zh-cn/支持Mermaid): 支持`Markdown`中的`Mermaid`绘图插件
 
-- 四、高阶应用(暂不更新)
+- 四、高阶应用
+  - [Github-Pages文档部署](./zh-cn/Pages文档部署): 将本地文档部署到互联网，方便实时浏览
+
+
+
+> 如果有文档撰写问题，可以浏览右上角的`文档撰写资料`哦~
+
+
+
+```mermaid
+flowchart TB
+	subgraph Answer
+	    direction LR
+        subgraph Question
+            direction TB
+            id1[有一些使用问题/阅读问题]
+        end
+
+        subgraph Ask
+            direction TB
+            id2([可以联系我])
+        end
+
+        subgraph Link
+            direction TB
+            id3[1.微信: cjh3020889729]
+            id4[2.QQ: 3020889729]
+            id5[3.在仓库提issue]
+            
+            id3 <--> id4
+            id4 <--> id5
+        end
+    
+        Question --> Ask
+        Ask --> Link
+    end
+
+```
+
+
+

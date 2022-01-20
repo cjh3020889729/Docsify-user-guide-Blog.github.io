@@ -6,3 +6,9 @@
   - [字数统计](./zh-cn/字数统计  "Docsify Tutorial")
   - [代码高亮](./zh-cn/代码高亮)
   - [代码复制](./zh-cn/代码复制)
+  - [支持Mermaid](./zh-cn/支持Mermaid)
+- 文档撰写资料
+  - [Docsify文档](https://docsify.js.org/ 'target: _blank')
+  - [Markdown语法](https://markdown.com.cn/basic-syntax/ 'target: _blank')
+  - [Mermaid语法](https://mermaid-js.github.io/mermaid/ 'target: _blank')
+  - [Prism代码高亮支持表](https://prismjs.com/#supported-languages 'target: _blank')
