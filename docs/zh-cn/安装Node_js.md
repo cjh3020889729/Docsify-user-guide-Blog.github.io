@@ -2,7 +2,7 @@
 
 ## 1.官网下载Node.js
 
-- <a link="http://nodejs.cn/download/">Node.js中文官网下载</a>
+- <a href="http://nodejs.cn/download/" target="_blank">Node.js中文官网下载</a>
 
 对应安装环境(操作系统)选择最新版本下载即可，这里下载的是windows-64位的`v16.13.2`版本的Node.js。
 

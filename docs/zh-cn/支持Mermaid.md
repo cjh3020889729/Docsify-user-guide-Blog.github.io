@@ -1,4 +1,4 @@
-<center><font size=32>为文档添加代码复制功能</font></center>
+<center><font size=32>为文档添加Mermaid功能</font></center>
 
 ## 1.功能介绍
 
