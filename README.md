@@ -3,7 +3,7 @@ Docsify新手向，安装+上手，实践第一个文档项目以及常用插件
 
 -----
 
-文档链接: [Docsify Tutorial 0.1](https://cjh3020889729.github.io/Docsify-user-guide-Blog.github.io/ 'target: _blank')
+文档链接: <a href="https://cjh3020889729.github.io/Docsify-user-guide-Blog.github.io/" target="_blank"> Docsify Tutorial 0.1 </a>
 
 -----
 
