@@ -14,6 +14,7 @@
   * [解析index.html](./zh-cn/解析html "Docsify Tutorial"): 介绍index.html的基本使用/功能
     * Update Date: _2022.1.20_
   * [解析README.md](./zh-cn/解析README "Docsify Tutorial"): 编写第一个文档页面
+    * Update Date: _2022.1.20_
   * [添加侧边栏](./zh-cn/添加侧边栏): 为`doc`添加`侧边栏`，便捷浏览整个文档
   * [完善侧边栏内容](./zh-cn/完善侧边栏内容 "Docsify Tutorial"): 添加多个文档页面，丰富文档内容
   * [添加导航栏](./zh-cn/添加导航栏): 为`doc`添加`导航栏`，快速浏览常用内容
@@ -25,7 +26,9 @@
   * [代码高亮](./zh-cn/代码高亮): 针对`不同语言代码`进行高亮，方便语法阅读
     * Update Date: _2022.1.20_
   * [代码复制](./zh-cn/代码复制): 支持复制`文本代码格式`，方便复制粘贴代码内容
+    * Update Date: _2022.1.20_
   * [支持Mermaiid](./zh-cn/支持Mermaid): 支持`Markdown`中的`Mermaid`绘图插件
+    * Update Date: _2022.1.20_
 
 - 四、高阶应用
   - [Github-Pages文档部署](./zh-cn/Pages文档部署): 将本地文档部署到互联网，方便实时浏览
