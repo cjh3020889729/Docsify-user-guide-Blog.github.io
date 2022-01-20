@@ -5,7 +5,8 @@
 
 * 二、快速构建First Doc
   * [初始化构建](./zh-cn/初始化构建 "Docsify Tutorial")
-  * [补充README](./zh-cn/补充README "Docsify Tutorial")
+  * [解析index.html](./zh-cn/解析html "Docsify Tutorial")
+  * [解析README.md](./zh-cn/解析README "Docsify Tutorial")
   * [添加侧边栏](./zh-cn/添加侧边栏 "Docsify Tutorial")
   * [完善侧边栏内容](./zh-cn/完善侧边栏内容 "Docsify Tutorial")
   * [添加导航栏](./zh-cn/添加导航栏 "Docsify Tutorial")
@@ -15,7 +16,7 @@
   * [字数统计](./zh-cn/字数统计 "Docsify Tutorial")
   * [代码高亮](./zh-cn/代码高亮 "Docsify Tutorial")
   * [代码复制](./zh-cn/代码复制 "Docsify Tutorial")
-  * [支持Mershid](./zh-cn/支持Mershid "Docsify Tutorial")
+  * [支持Mermaid](./zh-cn/支持Mermaid "Docsify Tutorial")
 
 - 四、高阶应用(暂不更新)
 
