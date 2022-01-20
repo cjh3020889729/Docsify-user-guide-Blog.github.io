@@ -9,14 +9,19 @@
 功能表单:
 
 - 支持**流程图**
+  - ![image-20220120214909566](支持Mermaid.assets/image-20220120214909566.png)
 - 支持**UML**
 - 支持**序列图**
+  - ![image-20220120214921284](支持Mermaid.assets/image-20220120214921284.png)
 - 支持**类图**
+  - ![image-20220120214931947](支持Mermaid.assets/image-20220120214931947.png)
 - 支持**状态图**
 - 支持**简单的饼状图**
+  - ![image-20220120214955098](支持Mermaid.assets/image-20220120214955098.png)
 - 支持**需求图**
 - 支持**实体关系图**
 - 支持**图形嵌套**等...
+  - ![image-20220120215011963](支持Mermaid.assets/image-20220120215011963.png)
 
 > 更多支持类型可前往[官网](https://mermaid-js.github.io/mermaid/#/flowchart 'target: _blank')查看
 
@@ -134,4 +139,4 @@ graph TD;
 
 ## Mermaid文档链接
 
-- [mermaid文档链接](https://mermaid-js.github.io/mermaid/#/README 'target: _blank')
+- [mermaid文档链接](https://mermaid-js.github.io/mermaid/ 'target: _blank')
