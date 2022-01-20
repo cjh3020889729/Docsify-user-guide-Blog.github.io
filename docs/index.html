@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-footer@1.x/dist/plugin.min.css">
 </head>
 <body>
   <div id="app"></div>
@@ -18,14 +19,28 @@
 	  subMaxLevel: 2,
 	  loadNavbar: true,
 	  coverpage: true,
-          auto2top: true,
+      auto2top: true,
+	  
+	  
 	  count:{
               countable:true,
               fontsize:'0.9em',
               color:'rgb(90,90,90)',
               language:'chinese'
-        }
+        },
     }
+	
+	window.$docsify.customPageFooter = {
+		debug: false,
+		showPoweredBy: false,
+		copyrightYear: '',
+		showCopyright: true,
+		copyright: undefined,
+		copyrightOwnerName: 'Jinghui Cai',
+		copyrightOwnerLink: 'https://github.com/cjh3020889729',
+		copyrightExtra: 'Life in order to learn, learn for life!',
+		useLocalStorage: false,
+	}
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -37,5 +52,6 @@
   <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
   <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
   <script>mermaid.initialize({ startOnLoad: true });</script>
+  <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-footer@1.x/dist/plugin.min.js"></script>
 </body>
 </html>
