@@ -11,14 +11,18 @@
   * [完善侧边栏内容](./zh-cn/完善侧边栏内容 "Docsify Tutorial")
   * [添加导航栏](./zh-cn/添加导航栏 "Docsify Tutorial")
   * [导航栏里的链接](./zh-cn/导航栏里的链接 "Docsify Tutorial")
-  * [添加搜索栏](./zh-cn/添加搜索栏 "Docsify Tutorial")
+  * [添加文档封面](./zh-cn/添加文档封面 "Docsify Tutorial")
+  * [实现一个文档](./zh-cn/实现一个文档  "Docsify Tutorial")
 * 三、添加常用插件
   * [字数统计](./zh-cn/字数统计 "Docsify Tutorial")
   * [代码高亮](./zh-cn/代码高亮 "Docsify Tutorial")
   * [代码复制](./zh-cn/代码复制 "Docsify Tutorial")
   * [支持Mermaid](./zh-cn/支持Mermaid "Docsify Tutorial")
+* 四、进阶小技巧
+  * [tab选择查看](./zh-cn/tab选择查看   "Docsify Tutorial")
+  * [details收纳展示](./zh-cn/details收纳展示   "Docsify Tutorial")
 
-- 四、高阶应用
+- 五、高阶应用
   - [Github-Pages文档部署](./zh-cn/Pages文档部署 "Docsify Tutorial")
 
 

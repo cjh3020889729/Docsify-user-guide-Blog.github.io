@@ -16,22 +16,31 @@
   * [解析README.md](./zh-cn/解析README "Docsify Tutorial"): 编写第一个文档页面
     * Update Date: _2022.1.20_
   * [添加侧边栏](./zh-cn/添加侧边栏): 为`doc`添加`侧边栏`，便捷浏览整个文档
+    * Update Date: _2022.1.22_
   * [完善侧边栏内容](./zh-cn/完善侧边栏内容 "Docsify Tutorial"): 添加多个文档页面，丰富文档内容
+    * Update Date: _2022.1.22_
   * [添加导航栏](./zh-cn/添加导航栏): 为`doc`添加`导航栏`，快速浏览常用内容
+    * Update Date: _2022.1.22_
   * [导航栏里的链接](./zh-cn/导航栏里的链接 "Docsify Tutorial"): 导航栏跳转外部链接
-  * [添加搜索栏](./zh-cn/添加搜索栏): 为`doc`添加`搜索`，快速搜索文档所需`链接`内容
+    * Update Date: _2022.1.22_
+  * [添加文档封面](./zh-cn/添加文档封面  "Docsify Tutorial"): 将在显示`README.md`首先显示封面作为文档入口页面
+    * Update Date: _2022.1.22_
+  * [实现一个文档](./zh-cn/实现一个文档  "Docsify Tutorial"): 实现第一个文档，基本配置到内容填充
 * 三、添加常用插件
-  * [字数统计](./zh-cn/字数统计): 统计当前页面(md)所含`字数`以及`大概阅读时间`
+  * [字数统计](./zh-cn/字数统计   "Docsify Tutorial"): 统计当前页面(md)所含`字数`以及`大概阅读时间`
     * Update Date: _2022.1.20_
-  * [代码高亮](./zh-cn/代码高亮): 针对`不同语言代码`进行高亮，方便语法阅读
+  * [代码高亮](./zh-cn/代码高亮   "Docsify Tutorial"): 针对`不同语言代码`进行高亮，方便语法阅读
     * Update Date: _2022.1.20_
-  * [代码复制](./zh-cn/代码复制): 支持复制`文本代码格式`，方便复制粘贴代码内容
+  * [代码复制](./zh-cn/代码复制   "Docsify Tutorial"): 支持复制`文本代码格式`，方便复制粘贴代码内容
     * Update Date: _2022.1.20_
-  * [支持Mermaiid](./zh-cn/支持Mermaid): 支持`Markdown`中的`Mermaid`绘图插件
+  * [支持Mermaiid](./zh-cn/支持Mermaid   "Docsify Tutorial"): 支持`Markdown`中的`Mermaid`绘图插件
     * Update Date: _2022.1.20_
+* 四、进阶小技巧
+  * [tab选择查看](./zh-cn/tab选择查看   "Docsify Tutorial"): 根据需要选择合适的内容查看
+  * [details收纳展示](./zh-cn/details收纳展示   "Docsify Tutorial"): 根据需要展开内容
 
-- 四、高阶应用
-  - [Github-Pages文档部署](./zh-cn/Pages文档部署): 将本地文档部署到互联网，方便实时浏览
+- 五、部署应用
+  - [Github-Pages文档部署](./zh-cn/Pages文档部署   "Docsify Tutorial"): 将本地文档部署到互联网，方便实时浏览
 
 
 

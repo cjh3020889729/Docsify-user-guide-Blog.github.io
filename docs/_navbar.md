@@ -1,12 +1,15 @@
 - 常用设置
   - [侧边栏](./zh-cn/添加侧边栏)
   - [导航栏](./zh-cn/添加导航栏)
-  - [搜索栏](./zh-cn/添加搜索栏)
+  - [文档封面](./zh-cn/添加文档封面)
 - 常用插件
   - [字数统计](./zh-cn/字数统计  "Docsify Tutorial")
   - [代码高亮](./zh-cn/代码高亮)
   - [代码复制](./zh-cn/代码复制)
   - [支持Mermaid](./zh-cn/支持Mermaid)
+- 文档模板
+  - [文档模板1](./zh-cn/实现一个文档  "Docsify Tutorial")
+  - [待更新](./README.md)
 - 文档撰写资料
   - [Docsify文档](https://docsify.js.org/ 'target: _blank')
   - [Markdown语法](https://markdown.com.cn/basic-syntax/ 'target: _blank')
